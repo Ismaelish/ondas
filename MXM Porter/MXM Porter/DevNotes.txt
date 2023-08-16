@@ -1,0 +1,4 @@
+﻿1. Set up Connection String at App.Config
+2. Install EntityFramework and other needed packages
+3. Create Entity Data Models at MODEL folder for the tables in each databases
+4. Create the dbcontext
